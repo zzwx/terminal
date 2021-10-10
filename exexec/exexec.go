@@ -1,4 +1,4 @@
-package execec
+package exexec
 
 import (
 	"bufio"
